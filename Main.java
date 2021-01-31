@@ -9,5 +9,7 @@ class HelloFromMiguel {
     //Added by jose
     public HelloFromMiguel(){
         System.out.println("Hello from Jose");
+        System.out.println("Hi Jose, from Miguel");
+
     }
 }
