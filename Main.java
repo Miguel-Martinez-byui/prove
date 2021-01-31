@@ -1,12 +1,8 @@
 package com.martinez;
 
-class HelloFromMiguel {
+public class Main {
     //public main
     public static void main(String[] args) {
-        new HelloFromMiguel();
-
-    }
-    public HelloFromMiguel(){
-        System.out.println("Hello from Miguel");
+	    System.out.println("Hello from Miguel");
     }
 }
