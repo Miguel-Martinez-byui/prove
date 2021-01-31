@@ -6,7 +6,8 @@ class HelloFromMiguel {
         new HelloFromMiguel();
 
     }
+    //Added by jose
     public HelloFromMiguel(){
-        System.out.println("Hello from Miguel");
+        System.out.println("Hello from Jose");
     }
 }
